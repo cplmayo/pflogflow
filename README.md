@@ -1,4 +1,4 @@
-# pflogflow
+# pfsense-elk
 Making pfSense logging more useful for security
 
 This is a work in progress.
